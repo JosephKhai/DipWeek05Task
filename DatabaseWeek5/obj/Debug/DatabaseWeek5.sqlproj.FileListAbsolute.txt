@@ -1,0 +1,6 @@
+D:\GitHub\DipWeek05Task\DatabaseWeek5\bin\Debug\DatabaseWeek5.dacpac
+D:\GitHub\DipWeek05Task\DatabaseWeek5\obj\Debug\DatabaseWeek5.dll
+D:\GitHub\DipWeek05Task\DatabaseWeek5\obj\Debug\DatabaseWeek5.pdb
+D:\GitHub\DipWeek05Task\DatabaseWeek5\bin\Debug\DatabaseWeek5.dll
+D:\GitHub\DipWeek05Task\DatabaseWeek5\bin\Debug\DatabaseWeek5.pdb
+D:\GitHub\DipWeek05Task\DatabaseWeek5\obj\Debug\DatabaseWeek5.sqlprojAssemblyReference.cache

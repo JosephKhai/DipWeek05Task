@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9cb7d3ef3b014e949ddb0d4c8def402f" Name="Diagram1">
+        <EntityTypeShape EntityType="DipWeek5Model.C__RefactorLog" Width="1.5" PointX="2.625" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DipWeek5Model.Author" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DipWeek5Model.Book" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DipWeek5Model.Student" Width="1.5" PointX="6.375" PointY="3" IsExpanded="true" />
+        <AssociationConnector Association="DipWeek5Model.FK_Book_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="DipWeek5Model.Borrow" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

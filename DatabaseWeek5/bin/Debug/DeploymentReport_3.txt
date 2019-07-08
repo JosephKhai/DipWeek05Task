@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Book]
+       [dbo].[Borrow]
+       [dbo].[Student]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[Author] (Table)
+     Table rebuild
+       [dbo].[Book] (Table)
+       [dbo].[Borrow] (Table)
+       [dbo].[Student] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Borrow_ToTable_1] (Foreign Key)
+       [dbo].[FK_Book_ToTable] (Foreign Key)
+       [dbo].[FK_Borrow_ToTable] (Foreign Key)
+     Create
+       [dbo].[FK_Borrow_ToTable_1] (Foreign Key)
+       [dbo].[FK_Book_ToTable] (Foreign Key)
+       [dbo].[FK_Borrow_ToTable] (Foreign Key)

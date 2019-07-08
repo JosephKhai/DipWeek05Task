@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DipWeek5Entities-Web.config Connection String" description="DipWeek5Entities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.DipWeek5.csdl|res://*/Models.DipWeek5.ssdl|res://*/Models.DipWeek5.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=josephkhaipi.database.windows.net;initial catalog=DipWeek5;persist security info=True;user id=josephkhaipi;password=7122013SiamPi;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\GitHub\\DipWeek05Task\\DipWeek05Task\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DipWeek5Entities']/@connectionString" />
+  </parameter>
+</parameters>
